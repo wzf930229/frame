@@ -1,0 +1,19 @@
+{
+"open_s001": {"tenantId":"a025","loginName":"fei01","loginPassword":"1cOoKwLquqk5seJlrCzsmg==","sysType":"5"},
+"open_s002":{"templateName":null,"page":1,"limit":10},
+"open_s003":{},
+"open_s004":{"templateName":"11","templateType":1,"remarks":"","templateContent":"<p>1111</p>"},
+"open_s005":{"templateType":1,"templateStatus":"1","templateStatusStr":"启用","updateDate":"2019-11-20 07:13:49","templateName":"11","tenantId":"a025","templateContent":"<p>ddd</p>","id":"24922061638361497661","version":0,"remarks":""},
+"open_s006":{},
+"open_s007":{},
+"open_s008":{},
+"open_s009":{},
+"open_s010":{},
+"open_s011":{},
+"open_s012":{},
+"open_s013":{},
+"open_s014":{},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}

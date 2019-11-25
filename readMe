@@ -1,0 +1,14 @@
+文件介绍：
+1、data.xls表格用来存放访问url,data等参数，可编辑，但格式固定，且表格名称固定为"data",不可改变；
+2、data.xls表格中的data列与requestData.json文件的key值一一对应；
+3、requestData.json文件中的"public_url"键值对必须存在，且自行填写，意指所有url的公共部分，若无公共部分，则值为空。
+方法调用：
+1、post(row)适用于不需要传入token且url中不带参数的post请求，如用户登陆；
+2、post_t(row)适用于需要传入token且url中不带参数的post请求；
+3、get(row)适用于不需要传入token且url中不带参数的get请求；
+4、get_v(row,id)适用于需要传入token且url中带参数的get请求；
+5、post_v(row,id)适用于需要传入token且url中带参数的get请求；
+6、post_c(row,l,li)适用于参数体中某个键的值参数化的情况；
+7、get_t(row)适用于需要传入token且url中不带参数的get请求。
+注：其中row为data.xls中的行数，id为url中所带的参数。
+8、write2excel(row,content)进行断言，并将执行结果写入到文件中。

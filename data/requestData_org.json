@@ -1,0 +1,19 @@
+{
+"open_s001": {"tenantId":"a025","loginName":"fei01","loginPassword":"1cOoKwLquqk5seJlrCzsmg==","sysType":"5"},
+"open_s002":{"parentId":"a025","nodeName1":"1"},
+"open_s003":{"nodeName1":"1","id":"249607637916700672610"},
+"open_s004":{},
+"open_s005":{"page":1,"limit":10,"tenantId":"a025","deptId":"124625260799578112"},
+"open_s006":{"page":1,"limit":10,"tenantId":"a025","deptId":"249612487505203200610"},
+"open_s007":{},
+"open_s008":{},
+"open_s009":{},
+"open_s010":{},
+"open_s011":{},
+"open_s012":{},
+"open_s013":{},
+"open_s014":{},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}

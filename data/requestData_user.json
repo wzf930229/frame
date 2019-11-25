@@ -1,0 +1,19 @@
+{
+"open_s001": {"tenantId":"a025","loginName":"fei01","loginPassword":"1cOoKwLquqk5seJlrCzsmg==","sysType":"5"},
+"open_s002":{},
+"open_s003":{"page": 1,"limit": 10,"type": 1,"orgId": "a025","isRoot": true,"itself": false,"condName": 0},
+"open_s004":{"deptIdList":["124624758263238656"],"dataIdList":["124624758263238656"],"email":"121@qq.com","firstName":"1","languageCode":"en","lastName":"1","loginName":"1","loginPassword":"1cOoKwLquqk5seJlrCzsmg==","roleIdList":["124633006664044544"],"userName":"1.1","moble":"-","tenantId":"a025","roleList":[{"createUserId":"122640235728195584","updateDate":"2019-09-10 04:23:21","updateUserId":"220966919329533952610","level":1,"groupId":"0","dateMap":{},"rolecheck":false,"version":0,"name":"Admin","tenantId":"a025","id":"124633006664044544","extendField":"","createDate":"2018-12-11 12:07:04"}]},
+"open_s005":{},
+"open_s006":{"email":"121@qq.com","firstName":"1","languageCode":"en","lastName":"1","loginName":"1","roleIdList":["124633006664044544"],"userName":"1.1","moble":"-","createUserId":"236788147621449728610","updateDate":"2019-11-20 17:32:34","deptIdList":["124624758263238656"],"failedLoginNum":0,"dateMap":{},"lastModifyPass":"2019-11-21 07:32:34","delFlag":"0","isLock":"0","userLevel":"2","checked":false,"id":"249587741153546240610","isDisabled":"1","currencyId":"CNY","extendField":"","createDate":"2019-11-20 17:32:34","address":"","isFirstLogin":"1","headImg":"","datasetLanguageFlag":"0","updateUserId":"236788147621449728610","deptId":"124624758263238656","roleList":[{"createUserId":"122640235728195584","updateDate":"2019-09-10 04:23:21","updateUserId":"220966919329533952610","level":1,"groupId":"0","dateMap":{},"name":"Admin","tenantId":"a025","id":"124633006664044544","version":0,"extendField":"","createDate":"2018-12-11 12:07:04"}],"version":0,"lastLoginTime":"2019-11-21 07:32:34","createSource":"1","updateSource":"1","phone":"","tenantId":"a025","viewType":"0","dataIdList":["124624758263238656"],"superAdminEmail":"gz_office@infrasys-intl.com","status":"2","loginPassword":""},
+"open_s007":{},
+"open_s008":{},
+"open_s009":{},
+"open_s010":{},
+"open_s011":{},
+"open_s012":{},
+"open_s013":{},
+"open_s014":{},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}

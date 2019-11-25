@@ -1,0 +1,19 @@
+{
+"open_s001": {"tenantId":"a025","loginName":"fei01","loginPassword":"1cOoKwLquqk5seJlrCzsmg==","sysType":"5"},
+"open_s002":{},
+"open_s003":{},
+"open_s004":{"createUserId":"103075932092223488","dateFormat":"yyyy.MM.dd","type":"1","financialCalendarId":"219769505172148224610","industryId":"H0000","derector":"","id":"a025","isDisabled":"1","currencyId":"USD","fax":"","dataSources":"2","calendarWeekBegin":"1","extendField":"","updateUserId":"196631168722915328610","timeZone":"77","pId":"a003","languageJson":"[{\"code\":\"{\\\"code\\\":\\\"en\\\",\\\"name\\\":\\\"English\\\",\\\"url\\\":\\\"eng\\\",\\\"icon\\\":\\\"lang_english_gb.gif\\\"}\",\"seq\":1},{\"code\":\"{\\\"code\\\":\\\"zh-hk\\\",\\\"name\\\":\\\"中文 (繁)\\\",\\\"url\\\":\\\"chi\\\",\\\"icon\\\":\\\"lang_chinese_hk.gif\\\"}\",\"seq\":2},{\"code\":\"{\\\"code\\\":\\\"zh-cn\\\",\\\"name\\\":\\\"中文 (简)\\\",\\\"url\\\":\\\"cn\\\",\\\"icon\\\":\\\"lang_chinese_cn.gif\\\"}\",\"seq\":3},{\"code\":\"\",\"seq\":4},{\"code\":\"\",\"seq\":5}]","version":0,"scheduleLanguage":"","thousandSeparator":true,"odsId":"-1","phone":"145154","financialCalendarFlag":"1","name":"Hyatt Hotels","status":"1","updateDate":"2019-11-15 02:01:02","code":"a025","dateMap":{},"moble":"","remark":"","activeCalendarFlag":"0","delFlag":"0","cdsId":"-1","webSite":"http://www.df.asddsdfsadf","pName":"Infrasys Cloud","currencyName":"美元(United States Dollar)","mdsId":"-1","yuanId":"","email":"","createDate":"2018-11-14 01:20:18","industryName":"住宿餐饮业","address":"71 South Wacker Drive, Chicago, IL, 606061","auditor":"","rolecheck":false,"fullName":"Hyatt Hotels Corporation aaa","negativeNumberType":"1","financialCalendar":"yizhou","abbreviation":"Hyatt Hotels","createSource":"1","updateSource":"1","timeFormat":"HH:mm","language":"English"},
+"open_s005":{},
+"open_s006":{},
+"open_s007":{},
+"open_s008":{},
+"open_s009":{},
+"open_s010":{},
+"open_s011":{},
+"open_s012":{},
+"open_s013":{},
+"open_s014":{},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}

@@ -1,0 +1,19 @@
+{
+"open_s001": {"tenantId":"a025","loginName":"fei01","loginPassword":"1cOoKwLquqk5seJlrCzsmg==","sysType":"5"},
+"open_s002":{"page":1,"limit":10},
+"open_s003":{"cycleType":"5","userEmail":"2975724990@qq.com","days":"","weeks":"","startDate":"2019-12-14 01:30:00","endDate":"2019-12-14 23:59:59","timeZone":"77","jobStatus":"1","jobName":"1","emailTitle":"12","startDateStr":"2019-12-14 01:30:00","endDateStr":"2019-12-14 23:59:59","condense":"1"},
+"open_s004":{"cycleType":"5","userEmail":"2975724990@qq.com","days":"","weeks":"","startDate":"2019-12-14 01:30:00","endDate":"2019-12-14 23:59:59","timeZone":"77","jobStatus":"1","jobName":"12","emailTitle":"12","startDateStr":"2019-12-14 01:30:00","endDateStr":"2019-12-14 23:59:59","condense":"1","id":""},
+"open_s005":{},
+"open_s006":{},
+"open_s007":{},
+"open_s008":{},
+"open_s009":{"dashBoardAlias":"DSDSD","dashBoardId":"245210383713816576610","folderId":"213249735216058368610","exportType":1,"ids":["246941396047482880610"],"params":"[{\"id\":\"2f06ff74-2f63-41a9-b68d-3d852a27d41f\",\"label\":\"Tab 1\",\"active\":true,\"content\":[{\"elName\":\"Location\",\"type\":\"locationNew\",\"id\":\"cc7678d9-6e58-4db0-9318-8607eaa33ee1\",\"content\":{\"layout\":{\"i\":\"cc7678d9-6e58-4db0-9318-8607eaa33ee1\",\"solt\":1,\"x\":0,\"y\":0,\"w\":1,\"h\":25.5,\"defaultHeight\":25.5,\"defaultY\":1,\"moved\":false},\"loction\":[\"ALL\"],\"selectType\":\"1\",\"pageObj\":{\"page\":1},\"LocationCompareName\":\"Location Compare\",\"disableQuick\":false,\"options\":{\"bindElements\":[\"28635345-3ccb-4743-a91d-aea6f994a132\"],\"shopIds\":[],\"outletIds\":[],\"paramType\":\"1\",\"hierarchyType\":\"\",\"dimensionIds\":[],\"labelIds\":[],\"labeled\":false,\"isPullSelect\":true,\"isCompare\":false,\"locationArea\":{\"currShopIds\":[],\"preShopIds\":[],\"currOutletIds\":[],\"preOutletIds\":[],\"shopIdField\":\"shop_id\",\"oletIdField\":\"olet_id\"},\"dataSetFields\":[{\"dataSetId\":\"131051179009363968\",\"dimensionTypeField\":{\"columnName\":\"\",\"lgeType\":\"\"},\"demensionTypeIdField\":{\"columnName\":\"\",\"lgeType\":\"\"},\"shopIdField\":{\"columnName\":\"SHOP_ID\",\"lgeType\":\"\"},\"shopNameField\":{\"columnName\":\"\",\"lgeType\":\"\"},\"outletsField\":{\"columnName\":\"OLET_ID\",\"lgeType\":\"\"},\"outletNameField\":{\"columnName\":\"\",\"lgeType\":\"\"}}]},\"default\":true,\"changeValue\":\"ALL\",\"currency\":\"Currency\"}}],\"layout\":[{\"i\":\"cc7678d9-6e58-4db0-9318-8607eaa33ee1\",\"solt\":1,\"x\":0,\"y\":0,\"w\":1,\"h\":25.5,\"defaultHeight\":25.5,\"defaultY\":1,\"moved\":false}]}]","boardCode":"SSS","language":"zh"},
+"open_s010":{"boardName":"","id":"247292265397997568610"},
+"open_s011":{},
+"open_s012":{},
+"open_s013":{"msgText":"123","msgTitle":"123","msgLevel":"0","roleIdList":["236893571683176448610"],"sendType":"4"},
+"open_s014":{},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}

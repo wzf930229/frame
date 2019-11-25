@@ -1,0 +1,18 @@
+{
+"open_s002":{"page":1,"limit":10},
+"open_s003":{},
+"open_s004":{"shopVO":{"languageDesc":"English","deptName":"Canada","updateDate":"2019-11-19 02:01:04","tagStatus":"1","shopName":"Hyatt Centric the Woodlands","languageName":"1","tableStatus":"0","calendarName":"","shopPhone":"","id":"114746092184129536","shopId":"4","currencyId":"EUR","columnsList":[],"pointNum":0,"createDate":"2019-06-27 06:09:54","shopCode":"HOURW","statusDesc":"启用","shopAddr":"9595 Six Pines, Suite 1100 \r\nThe Woodlands, Texas, United States","deptId":"124625332627034112","timeZone":"-720","pId":"a003","languageJson":"[{\"code\":\"{\\\"code\\\":\\\"en\\\",\\\"name\\\":\\\"English\\\",\\\"url\\\":\\\"eng\\\",\\\"icon\\\":\\\"lang_english_gb.gif\\\"}\",\"seq\":1},{\"code\":\"\",\"seq\":2},{\"code\":\"\",\"seq\":3},{\"code\":\"\",\"seq\":4},{\"code\":\"\",\"seq\":5}]","cerrencyName":"欧元(Euro)","timeZoneName":"","bindDate":"2019-10-30","calendarId":"","tenantId":"a025","shopShortNameX5":"","shopShortNameX4":"","revenueCenterNumber":0,"shopShortNameX3":"","shopShortNameX2":"","shopShortNameX1":"Hyatt Centric the Woodlands1","status":"1"},"outletsList":[]},
+"open_s005":{"page":1,"limit":999,"shopId":"4"},
+"open_s006":{},
+"open_s007":{"entityId":"114746092184129536","entityType": 1},
+"open_s008":[{"entityId":"114746092184129536","entityType":"1","tagId":""},{"entityId":"114746092184129536","entityType":"1","tagId":""},{"entityId":"114746092184129536","entityType":"1","tagId":""},{"entityId":"114746092184129536","entityType":"1","tagId":""},{"entityId":"114746092184129536","entityType":"1","tagId":""},{"entityId":"114746092184129536","entityType":"1","tagId":""},{"entityId":"114746092184129536","entityType":"1","tagId":""},{"entityId":"114746092184129536","entityType":"1","tagId":""}],
+"open_s009":{},
+"open_s010":{},
+"open_s011":{},
+"open_s012":{},
+"open_s013":{},
+"open_s014":{},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}

@@ -1,0 +1,19 @@
+{
+"open_s001": {"tenantId":"a025","loginName":"fei01","loginPassword":"1cOoKwLquqk5seJlrCzsmg==","sysType":"5"},
+"open_s002":{"page":1,"limit":10},
+"open_s003":{"currName":"1","tenantCurrCode":"ADP","currShortname":"1","decimalPlace":0,"roundingType":7},
+"open_s004":{},
+"open_s005":{"createUserId":"236788147621449728610","updateDate":"2019-11-20 10:00:44","updateUserId":"zhaofei.wang","roundingType":7,"dateMap":{"updateDate":"2019.11.20 10:00"},"remark":"","version":0,"decimalPlace":0,"currShortname":"1","tenantId":"a025","id":"249474032972320768611","tenantCurrCode":"ADP","currName":"1","tenantCurrName":"fafa1","extendField":"","createDate":"2019-11-20 10:00:44"},
+"open_s006":{"page":1,"limit":10},
+"open_s007":{"startDate":1574179200000,"endDate":1606752000000,"exchangeRate":"1.0000","shopCurrCode":"ADP"},
+"open_s008":{"shopCurrCode":"ADP","createUserId":"236788147621449728610","updateDate":"2019-11-21 00:19:46","startDateStr":1574179200000,"endDate":1606752000000,"updateUserId":"236788147621449728610","updateUserName":"fei01","dateMap":{"updateDate":"2019.11.21 00:19","endDate":"2020.12.01 ","startDate":"2019.11.20 "},"tenantCurrencyName":"USD1","remark":"","createUserName":"fei01","delFlag":"0","version":0,"rateCalculation":"1ADP=1.0000USD","currencyName":"1","exchangeRate":"1.0000","tenantId":"a025","id":"249478821005217792611","tenantCurrCode":"USD","startDate":1574179200000,"endDateStr":1606752000000,"createDate":"2019-11-21 00:19:46","status":"Valid"},
+"open_s009":{},
+"open_s010":{},
+"open_s011":{},
+"open_s012":{},
+"open_s013":{},
+"open_s014":{},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}
