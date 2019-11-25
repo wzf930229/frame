@@ -2,6 +2,7 @@ import unittest
 import os
 import HTMLTestRunner
 import time
+from  tests import  *
 if __name__ == '__main__':
     test_dir=os.path.join(os.path.dirname(os.path.dirname(__file__)),"tests")
     testcase=unittest.defaultTestLoader.discover(test_dir,pattern='test*.py')
