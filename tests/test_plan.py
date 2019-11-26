@@ -29,7 +29,6 @@ class test_plan(unittest.TestCase):
     def test_002(self):
         #获取计划任务列表
         r=self.obj.post_t(2,self.f1,self.f2)
-        print(r.text)
         self.write2excel(r,2,self.f2)
         for i in range(0,r.json()["data"]["total"]):
             if r.json()["data"]["rows"][i]["statusName"]=="Enabled":
@@ -92,7 +91,6 @@ class test_plan(unittest.TestCase):
     def test_004(self):
         # 新增计划任务
         r = self.obj.post_t(3,self.f1,self.f2)
-        print(r.text)
         self.write2excel(r, 3,self.f2)
         id = r.json()["data"]["id"]
         # 计划任务停用
