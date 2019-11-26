@@ -2,7 +2,7 @@
 "open_s001": {"tenantId":"a025","loginName":"fei01","loginPassword":"1cOoKwLquqk5seJlrCzsmg==","sysType":"5"},
 "open_s002":{"page":1,"limit":10},
 "open_s003":{"cycleType":"5","userEmail":"2975724990@qq.com","days":"","weeks":"","startDate":"2019-12-14 01:30:00","endDate":"2019-12-14 23:59:59","timeZone":"77","jobStatus":"1","jobName":"1","emailTitle":"12","startDateStr":"2019-12-14 01:30:00","endDateStr":"2019-12-14 23:59:59","condense":"1"},
-"open_s004":{"cycleType":"5","userEmail":"2975724990@qq.com","days":"","weeks":"","startDate":"2019-12-14 01:30:00","endDate":"2019-12-14 23:59:59","timeZone":"77","jobStatus":"1","jobName":"12","emailTitle":"12","startDateStr":"2019-12-14 01:30:00","endDateStr":"2019-12-14 23:59:59","condense":"1","id":""},
+"open_s004":{"cycleType":"5","userEmail":"2975724990@qq.com","days":"1","weeks":"","startDate":"2019-12-01 01:30:00","endDate":"2019-12-01 23:59:59","timeZone":"77","jobStatus":"1","jobName":"2","updateDate":"2019-11-26 17:28:09","startDateStr":"2019-12-01 01:30:00","emailTitle":"2","timeZoneConfig":"{\"endDate\":\"2019-12-01 23:59:59\",\"startDate\":\"2019-12-01 01:30:00\",\"timeZoneGMT\":\"GMT+08:00\",\"timeZoneId\":\"77\",\"timeZoneName\":\"(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi\",\"zoneCron\":\"0 30 1 1 12 ?\",\"zoneEndDate\":\"2019-12-01 23:59:59\",\"zoneStartDate\":\"2019-12-01 01:30:00\"}","jobCron":"0 30 1 1 12 ?","pId":"a003","jobDesc":"2","userId":"236788147621449728610","condense":"1","tenantId":"a025","id":"247292265397997568610","nextExecutorTime":"2019-12-01 01:30:00","endDateStr":"2019-12-01 23:59:59","createDate":"2019-11-15 00:14:06"},
 "open_s005":{},
 "open_s006":{},
 "open_s007":{},
